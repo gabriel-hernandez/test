@@ -1,1 +1,2 @@
-print "Hello"
+message = "hello"
+print message
