@@ -1,2 +1,1 @@
-message = "hello"
-print message
+This is a test program
